@@ -1,0 +1,5 @@
+{
+    "name": "Single commit check",
+    "description": "Checks that a PR contains a single commit",
+    "iconName": "git-merge-24"
+}
